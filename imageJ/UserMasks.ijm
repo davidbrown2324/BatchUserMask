@@ -1,5 +1,6 @@
-testfile="C:\\Users\\David Brown\\Desktop\\Exp0170-Confocal_tifs\\Well02_001.tif";
-test_output="C:\\Users\\David Brown\\Desktop\\Output\\";
+//Give paths to a testfile and a test_output dir if you want to run this script!!
+testfile="";
+test_output="";
 
 function UserMasks(filename){
 //print("Running UserMasks");
